@@ -3,6 +3,11 @@
 using namespace std;
 
 /*
+Elfs are playing tic tac toe. They gave you a cheat sheet of what the opponent will play
+and what you should play in response. Some plays are purposefly lost or draws to avoid suspicion. 
+
+Calculate the total score you would have if you followed their move set.
+
 Opponent - Col 1: A(Rock), B(Paper), C(Scissors)
 Correct  - Col 2: X(Rock), Y(Paper), Z(Scissors)
 
