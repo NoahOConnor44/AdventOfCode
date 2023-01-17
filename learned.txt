@@ -1,0 +1,8 @@
+Things learned during advent of code:
+
+1. Find overlapping values for two intervals:
+	+	find max of left intervals for both ranges:
+	+	find min of right intervals for both ranges:
+	+	if max <= min then they overlap
+	
+2. 
